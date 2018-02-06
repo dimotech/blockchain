@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain programming by using javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimotech/blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimotech/blockchain/issues"
+  },
+  "homepage": "https://github.com/dimotech/blockchain#readme",
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
